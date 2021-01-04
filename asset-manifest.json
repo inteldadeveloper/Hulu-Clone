@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Hulu-Clone.git/static/css/main.67ed9074.chunk.css",
-    "main.js": "/Hulu-Clone.git/static/js/main.aa423973.chunk.js",
-    "main.js.map": "/Hulu-Clone.git/static/js/main.aa423973.chunk.js.map",
-    "runtime-main.js": "/Hulu-Clone.git/static/js/runtime-main.6218796f.js",
-    "runtime-main.js.map": "/Hulu-Clone.git/static/js/runtime-main.6218796f.js.map",
-    "static/js/2.1cee5b60.chunk.js": "/Hulu-Clone.git/static/js/2.1cee5b60.chunk.js",
-    "static/js/2.1cee5b60.chunk.js.map": "/Hulu-Clone.git/static/js/2.1cee5b60.chunk.js.map",
-    "static/js/3.027f48c3.chunk.js": "/Hulu-Clone.git/static/js/3.027f48c3.chunk.js",
-    "static/js/3.027f48c3.chunk.js.map": "/Hulu-Clone.git/static/js/3.027f48c3.chunk.js.map",
-    "index.html": "/Hulu-Clone.git/index.html",
-    "static/css/main.67ed9074.chunk.css.map": "/Hulu-Clone.git/static/css/main.67ed9074.chunk.css.map",
-    "static/js/2.1cee5b60.chunk.js.LICENSE.txt": "/Hulu-Clone.git/static/js/2.1cee5b60.chunk.js.LICENSE.txt"
+    "main.css": "/inteldadeveloper/hulu-clone.git/static/css/main.67ed9074.chunk.css",
+    "main.js": "/inteldadeveloper/hulu-clone.git/static/js/main.aa423973.chunk.js",
+    "main.js.map": "/inteldadeveloper/hulu-clone.git/static/js/main.aa423973.chunk.js.map",
+    "runtime-main.js": "/inteldadeveloper/hulu-clone.git/static/js/runtime-main.d6b4c0c5.js",
+    "runtime-main.js.map": "/inteldadeveloper/hulu-clone.git/static/js/runtime-main.d6b4c0c5.js.map",
+    "static/js/2.1cee5b60.chunk.js": "/inteldadeveloper/hulu-clone.git/static/js/2.1cee5b60.chunk.js",
+    "static/js/2.1cee5b60.chunk.js.map": "/inteldadeveloper/hulu-clone.git/static/js/2.1cee5b60.chunk.js.map",
+    "static/js/3.027f48c3.chunk.js": "/inteldadeveloper/hulu-clone.git/static/js/3.027f48c3.chunk.js",
+    "static/js/3.027f48c3.chunk.js.map": "/inteldadeveloper/hulu-clone.git/static/js/3.027f48c3.chunk.js.map",
+    "index.html": "/inteldadeveloper/hulu-clone.git/index.html",
+    "static/css/main.67ed9074.chunk.css.map": "/inteldadeveloper/hulu-clone.git/static/css/main.67ed9074.chunk.css.map",
+    "static/js/2.1cee5b60.chunk.js.LICENSE.txt": "/inteldadeveloper/hulu-clone.git/static/js/2.1cee5b60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6218796f.js",
+    "static/js/runtime-main.d6b4c0c5.js",
     "static/js/2.1cee5b60.chunk.js",
     "static/css/main.67ed9074.chunk.css",
     "static/js/main.aa423973.chunk.js"
